@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">UniPractice</string>
+  <string name="title">My first app title</string>
+  <string name="action">Save</string>
+</resources>
