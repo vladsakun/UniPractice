@@ -64,6 +64,8 @@ class MainActivity : AppCompatActivity() {
         is Shape.Rectangle -> rectangleCountWhen++
       }
     }
+
+    Log.d(TAG, "onCreate: ovalCount = $ovalCount")
   }
 
   companion object {
